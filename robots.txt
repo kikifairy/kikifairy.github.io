@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /favicon.ico
-
-Sitemap: http://kikifairy.io/sitemap.xml
